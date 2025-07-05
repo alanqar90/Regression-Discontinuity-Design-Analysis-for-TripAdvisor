@@ -40,7 +40,7 @@ We could get following conclusion through running RDD analysis.
 | Treatment effect | High and Positive    | Not significant       | High and Positive             |
 | Slope change     | Positively Increased | No significant change | Turned negative from positive |
 
-![Summary](/Users/HongSukhyun/Documents/ethHong.github.io/_posts/image/Summary.png)
+<img src="image/Summary.png" alt="DAG" style="zoom:50%;" />
 
 From cutoff 3.75, through rounding up scores to 4.0 we could see significant jump on views. Also, we could observe before score 3.75 slope was flat, but it became highly positive after the cutoff. **This implies 4.0+ is the range of rating that people begins to perceive score to be high, and important.** At the same time, score between range of 3.5~3.75 is being rounded down to 3.5. Customers perceive score 3.5 or lower to be low, probably impy low quality. Therefore undre score 3.5, hotels are less likely to get more views even rating increases. 
 
