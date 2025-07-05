@@ -1,8 +1,6 @@
 # TripadvisorA_RDD_Analysis
 RDD Analysis for Tripadvisor Bubble Rating
 
-Blog Article: [🔗Link](https://ethhong.github.io/statistics/datascience/machinelearning/2025/06/15/RDD-Analysis-Research-on-Tripadvisor-Bubble-Rating.html)
-
 # Summary
 
 ***Does bubble rating has positive causal inpact on increasing views of postings for hotels in Tripadvisor? Is it actually beneficial to the business?***
