@@ -7,7 +7,7 @@ RDD Analysis for Tripadvisor Bubble Rating
 
 ## Background
 
-* Many of the platform services, including Tripadvisor utilize 'Bubble Rating' system, which represents a numerical rating on a '5 Stars' (or bubble) scale. 
+* Many of the platform services, including Tripadvisor, utilize 'Bubble Rating' system, which represents a numerical rating on a '5 Stars' (or bubble) scale. 
 * Since the bubble rating system represents scores in units of 0.5 bubbles (e.g. 0.5 stars, or 1 complete star), most of the services **round up** actual numerical ratings to the closest 0.5 unit.
 
 ## Questions
